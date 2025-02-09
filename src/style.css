@@ -1,0 +1,16 @@
+.card{
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    padding: 3px;
+    margin-bottom: 10px;
+    width: 40%;
+}
+.navbar{
+    color: white;
+    border-radius: 5px;
+    margin: 3px;
+}
+.nav{
+    margin: 10px;
+}
